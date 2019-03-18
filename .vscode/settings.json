@@ -1,0 +1,7 @@
+{
+    "jshint.enable": false,
+    "eslint.run": "onSave",
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.enable": true,
+}

@@ -1,1 +1,4 @@
-node_modules/
+# /node_modules/* and /bower_components/* in the project root are ignored by default
+# however, we assign to ignore them again :D
+/node_modules/*
+/bower_components/*
