@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/aranab/fnp-lodash#readme",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "eslint": "^5.12.1"
